@@ -1,6 +1,5 @@
-# Electric_Vehicle_Data_Analysis_By_Using_Tableau
+#  🚗🔋 Electric_Vehicle_Data_Analysis_By_Using_Tableau
 
-# 🚗🔋 Electric Vehicle Data Analysis Dashboard - Tableau Project
 
 ### 📘 Project Overview
 This project offers a comprehensive analysis of the Electric Vehicle (EV) market using Tableau, focusing on trends by model, make, state, and model year. Designed for stakeholders interested in the EV industry, the dashboard highlights key insights like popular brands, geographic adoption, and the shift from Plug-in Hybrid Electric Vehicles (PHEVs) to Battery Electric Vehicles (BEVs). 
